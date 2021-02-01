@@ -1,0 +1,30 @@
+body{
+    height: auto;
+    width: auto;
+    background-image: url("udivlennyj-bagz-banni-mem-shablon.jpg"); 
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:50% 100%;
+    min-height: auto;
+    min-width: auto;
+    background-color: #000000; 
+}
+audio.trek {
+    margin-top: 2%;
+}
+img.gifka{
+    position: fixed;
+    margin-top: 0%;
+    margin-left: 0.5%;
+    padding-right: 5px;
+}
+p.text {
+    margin-top: 1%;
+    margin-left: 20px;
+}
+img.zac{
+    position: absolute; 
+    left:94%; top:89%;
+    min-width: 30px;
+    min-height: auto;
+}
